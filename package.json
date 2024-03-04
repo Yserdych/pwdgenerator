@@ -1,0 +1,23 @@
+{
+  "name": "pwdgenerator",
+  "version": "1.0.0",
+  "description": "A package to generate strong passwords.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yserdych/pwdgenerator.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "security"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "strongpwd": "^1.0.0"
+  }
+}
