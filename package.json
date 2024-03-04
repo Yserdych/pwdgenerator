@@ -1,5 +1,5 @@
 {
-  "name": "pwdgenerator",
+  "name": "strongpwdgenerator",
   "version": "1.0.0",
   "description": "A package to generate strong passwords.",
   "main": "./src/index.js",
