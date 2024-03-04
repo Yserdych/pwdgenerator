@@ -1,19 +1,19 @@
-# pwdgenerator
+# strongpwdgenerator
 
 A package to generate strong passwords.
 
 ## Installation
 
-You can install the `pwdgenerator` package via npm:
+You can install the `strongpwdgenerator` package via npm:
 
 ```bash
-npm install pwdgenerator
+npm install strongpwdgenerator
 ```
 
 ## Usage
 
 ```javascript
-const generateStrongPassword = require('pwdgenerator');
+const generateStrongPassword = require('strongpwdgenerator');
 
 const password = generateStrongPassword();
 console.log("Generated Strong Password:", password);
