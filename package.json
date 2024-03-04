@@ -12,7 +12,7 @@
     "generator",
     "security"
   ],
-  "author": "Your Name",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
